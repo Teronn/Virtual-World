@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1493306015 source:c:\users\admin\desktop\c\hmm\antylopa.cpp
+	"Antylopa.h"
+	<ctime>
+	"Const.h"
+	"Swiat.h"
+	<iostream>
+	<cstdlib>
+	"utils.h"
+
+1492981954 c:\users\admin\desktop\c\hmm\antylopa.h
+	"Zwierze.h"
+
+1492943766 c:\users\admin\desktop\c\hmm\zwierze.h
+	"Organizm.h"
+
+1492981632 c:\users\admin\desktop\c\hmm\organizm.h
+	<string>
+
+1492975532 c:\users\admin\desktop\c\hmm\const.h
+
+1492983670 c:\users\admin\desktop\c\hmm\swiat.h
+	<vector>
+	"Organizm.h"
+
+1492872351 c:\users\admin\desktop\c\hmm\utils.h
+
+1492981826 source:c:\users\admin\desktop\c\hmm\barszcz.cpp
+	"Barszcz.h"
+	"Zwierze.h"
+	"Swiat.h"
+	<iostream>
+
+1492981954 c:\users\admin\desktop\c\hmm\barszcz.h
+	"Roslina.h"
+
+1492943824 c:\users\admin\desktop\c\hmm\roslina.h
+	"Organizm.h"
+
+1492981834 source:c:\users\admin\desktop\c\hmm\czlowiek.cpp
+	"Czlowiek.h"
+	"Swiat.h"
+	"Const.h"
+	<iostream>
+	"utils.h"
+
+1492981954 c:\users\admin\desktop\c\hmm\czlowiek.h
+	"Zwierze.h"
+
+1492981966 source:c:\users\admin\desktop\c\hmm\guarana.cpp
+	"Guarana.h"
+	"Zwierze.h"
+	<iostream>
+
+1492981954 c:\users\admin\desktop\c\hmm\guarana.h
+	"Roslina.h"
+
+1492981855 source:c:\users\admin\desktop\c\hmm\lis.cpp
+	"Lis.h"
+	<ctime>
+	"Const.h"
+	"Swiat.h"
+	"utils.h"
+	<iostream>
+
+1492981954 c:\users\admin\desktop\c\hmm\lis.h
+	"Zwierze.h"
+
+1493306001 source:c:\users\admin\desktop\c\hmm\main.cpp
+	<iostream>
+	"Swiat.h"
+	"Const.h"
+	"Wilk.h"
+	"Zolw.h"
+	"Owca.h"
+	"Lis.h"
+	"Antylopa.h"
+	"Czlowiek.h"
+	"Mlecz.h"
+	"Trawa.h"
+	"Guarana.h"
+	"Wjagody.h"
+	"Barszcz.h"
+	<conio.h>
+
+1492981954 c:\users\admin\desktop\c\hmm\wilk.h
+	"Zwierze.h"
+
+1492981954 c:\users\admin\desktop\c\hmm\zolw.h
+	"Zwierze.h"
+
+1492981954 c:\users\admin\desktop\c\hmm\owca.h
+	"Zwierze.h"
+
+1492981954 c:\users\admin\desktop\c\hmm\mlecz.h
+	"Roslina.h"
+
+1492981954 c:\users\admin\desktop\c\hmm\trawa.h
+	"Roslina.h"
+
+1492981954 c:\users\admin\desktop\c\hmm\wjagody.h
+	"Roslina.h"
+
+1492981861 source:c:\users\admin\desktop\c\hmm\mlecz.cpp
+	"Mlecz.h"
+	<iostream>
+
+1493306036 source:c:\users\admin\desktop\c\hmm\organizm.cpp
+	"Organizm.h"
+	<ctime>
+	<vector>
+	"Const.h"
+	"Swiat.h"
+	"utils.h"
+	<cstdlib>
+
+1492981867 source:c:\users\admin\desktop\c\hmm\owca.cpp
+	"Owca.h"
+	"Swiat.h"
+	<iostream>
+
